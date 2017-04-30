@@ -13,7 +13,7 @@ Your progress is shadowed in a database, so that it can refresh your memory abou
 
 Registration is optional. Registered users can connect to their profile from multiple devices, and share a device with other registered users. The profile data of unregistered users may be deleted after an extended period of inactivity.
 
-The companion [Graded Writing](https://github.com/lexogram/graded-writing) project provides a workflow for creating new videos to present in VO. You are more than welcome to suggest new topics and to add your own contributions to the site.
+The companion [Graded Writer](https://github.com/lexogram/graded-writer) project provides a workflow for creating new videos to present in VO. You are more than welcome to suggest new topics and to add your own contributions to the site.
 
 [More details are available in the Wiki.](https://github.com/lexogram/vo/wiki)
 
