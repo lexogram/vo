@@ -12,3 +12,7 @@ Each page consists of a short video story or presentation. The videos show a clo
 As the site develops, we plan to develop algorithms which will track the progress of your learning and suggest new videos for you to watch that are adapted to your interests and your mastery of your new language.
 
 Registration is optional. Registered users can connect to their profile from multiple devices, and share a device with other registered users. The profile data of unregistered users may be deleted after an extended period of inactivity.
+
+The companion [Graded Writing](https://github.com/lexogram/graded-writing) project provides a workflow for creating new videos to present in VO.
+
+(VO stands for *Version Originale* — in French, this is used to describe foreign language films in the original language, complete with subtitles.) 
