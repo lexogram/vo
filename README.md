@@ -15,4 +15,6 @@ Registration is optional. Registered users can connect to their profile from mul
 
 The companion [Graded Writing](https://github.com/lexogram/graded-writing) project provides a workflow for creating new videos to present in VO. You are more than welcome to suggest new topics and to add your own contributions to the site.
 
+[More details are available in the Wiki.](https://github.com/lexogram/vo/wiki)
+
 (VO stands for *Version Originale* — in French, this is used to describe foreign language films in the original language, complete with subtitles.) 
